@@ -148,9 +148,6 @@
 *.autoreelapp.com
 *.autoshorts.ai
 *.avatarwithai.com
-*.aws.amazon.com/bedrock/titan
-*.aws.amazon.com/q
-*.azure.microsoft.com/en-us/products/ai-services/openai-service
 *.bagoodex.io
 *.bannerbear.com
 *.bard.google.com
@@ -170,7 +167,6 @@
 *.bewerbung.ai
 *.bhuman.ai
 *.bilmans.com
-*.bing.com/chat
 *.bizplanner.ai
 *.blackink.ai
 *.blinkvideo.ai
@@ -192,7 +188,6 @@
 *.buhuw.com
 *.buildglare.com
 *.bulkgpt.ai
-*.business.adobe.com/products/sensei/adobe-sensei-genai.html
 *.buster.ai
 *.buzznews.today
 *.bwana19.com
@@ -530,7 +525,6 @@
 *.giga.chat
 *.gingerkeyboard.com
 *.gista.co
-*.github.com/features/copilot
 *.giti.ai
 *.giz.ai
 *.gizzmo.ai
@@ -600,7 +594,6 @@
 *.hotpot.ai
 *.hourone.ai
 *.huatuogpt.cn
-*.huggingface.co/spaces/tiiuae/falcon-180b-demo
 *.humanizeai.io
 *.humanizeai.pro
 *.humanpal.io
@@ -701,7 +694,6 @@
 *.magicstudio.com
 *.magisto.com
 *.magnific.ai
-*.mailshake.com/ai-email-writer
 *.makeform.ai
 *.mammouth.ai
 *.mapify.so
@@ -867,7 +859,6 @@
 *.qianlu.cc
 *.qopywriter.ai
 *.questmate.com
-*.quickchat.ai/emerson
 *.quicktok.ai
 *.quillbot.com
 *.quizme.live
@@ -881,7 +872,6 @@
 *.read2me.online
 *.rebecc.ai
 *.refraction.dev
-*.regem.in/ai-writer
 *.regex.ai
 *.regie.ai
 *.regisai.com
@@ -910,7 +900,6 @@
 *.rtst.ai
 *.ru-chatgpt.ru
 *.runwayml.com
-*.ryrob.com/paragraph-rewriter
 *.rytr.me
 *.saffronintell.com
 *.saga.so
@@ -951,9 +940,6 @@
 *.simpleshow.com
 *.simpliciter.ai
 *.simplified.com
-*.sindresorhus.com/aiko
-*.sindresorhus.com/amazing-ai
-*.sindresorhus.com/quickgpt
 *.sinonimos.com.br
 *.sintra.ai
 *.site.xaris.ai
@@ -1005,7 +991,6 @@
 *.storynest.ai
 *.storyscapeai.app
 *.storytailor.ai
-*.streamlit.io/generative-ai
 *.strella.io
 *.studio.tune.app
 *.studytexter.com
@@ -1059,7 +1044,6 @@
 *.theogrowth.com
 *.there.do
 *.thesummary.ai
-*.thirdai.com/pocketllm
 *.thispersonnotexist.org
 *.thisresumedoesnotexist.com
 *.threadcreator.com
