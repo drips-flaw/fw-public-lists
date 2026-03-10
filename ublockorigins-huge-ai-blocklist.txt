@@ -1,7 +1,7 @@
 # Title: uBlockOrigin's Huge AI Blocklist
-# Description: A huge blocklist of manually curated sites that contain AI-generated imagery for uBlock Origin & uBlacklist.
+# Description: A huge blocklist of manually curated sites (1000+) that contain AI generated content, for the purposes of cleaning image search engines (Google Search, DuckDuckGo, and Bing)
 # Homepage: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist
 # License: https://github.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/blob/main/LICENSE
 # Original Author: laylavish
 
-@https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/refs/heads/main/list.txt
+@https://raw.githubusercontent.com/laylavish/uBlockOrigin-HUGE-AI-Blocklist/refs/heads/main/noai_hosts.txt
