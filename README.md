@@ -76,6 +76,9 @@ If you include domains or lists sourced from another project, you must ensure th
 
 Firewalla is not responsible for improperly attributed or unauthorized submissions. We reserve the right to remove or modify any content that may violate licensing or attribution requirements.
 
+### Disclaimer
+We are not responsible for the content of any submitted list and do not verify whether a list is valid, accurate, compliant, or legally usable. All responsibility for the submitted content rests solely with the submitter. We reserve the right to remove any list at our discretion, including in cases of discrepancies, violations, licensing conflicts, usage restrictions, or quality issues.
+
 ## License
 
 For more details, see the [LICENSE](https://github.com/firewalla/fw-public-lists/blob/main/LICENSE).
