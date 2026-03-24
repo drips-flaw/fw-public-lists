@@ -1,0 +1,7 @@
+# Title: Hagezi's Multi Light
+# Description: Hand brush - Cleans the Internet and protects your privacy! Blocks Ads, Tracking, Metrics and some Badware. A size-optimized version of the Multi NORMAL.
+# Homepage: https://github.com/hagezi/dns-blocklists?tab=readme-ov-file#light
+# License: https://github.com/hagezi/dns-blocklists/blob/main/LICENSE
+# Original Author: Hagezi
+
+@https://gitlab.com/hagezi/mirror/-/raw/main/dns-blocklists/domains/light.txt
