@@ -20,6 +20,11 @@ These are NOT the same as the built-in [Target Lists](https://help.firewalla.com
 - [NSFW AI List](https://github.com/firewalla/fw-public-lists/blob/main/nsfw-ai.txt)
 - [AI Providers List](https://github.com/firewalla/fw-public-lists/blob/main/ai-provider.txt)
 - [uBlockOrigin's Huge AI Blocklist](https://github.com/firewalla/fw-public-lists/blob/main/ublockorigins-huge-ai-blocklist.txt)
+- [Hagezi's Multi Light](https://github.com/firewalla/fw-public-lists/blob/main/Hagezi-Multi-Light.txt)
+- [Hagezi's Multi Normal](https://github.com/firewalla/fw-public-lists/blob/main/Hagezi-Multi-Normal.txt)
+- [Hagezi's Multi ULTIMATE](https://github.com/firewalla/fw-public-lists/blob/main/Hagezi-Multi-Ultimate.txt)
+- [Hagezi's Threat Intelligence Feeds](https://github.com/firewalla/fw-public-lists/blob/main/Hagezi-threat-intelligence-feeds.txt)
+- [oisd BIG](https://github.com/firewalla/fw-public-lists/blob/main/oisd%20BIG.txt)
 
 ## Contributing Guidelines
 
